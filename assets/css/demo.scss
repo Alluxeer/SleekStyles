@@ -1,0 +1,23 @@
+
+
+
+
+
+body {
+    background: #26262c;
+}
+
+
+.container {
+    height: 100%;
+    padding: 1em;
+    margin: 3%;
+
+    &.btn-container {
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        gap: 4em;
+        padding: 1em;
+    }
+}
