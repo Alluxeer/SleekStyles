@@ -7,11 +7,11 @@ To get started using SleekStyles, simply download the CSS file and include it in
 ## Components
 SleekStyles includes a variety of components to help you quickly build your UI. Here are just a few of the components you'll have access to:
 
-**Inputs**: SleekStyles includes pre-made styles for text inputs, checkboxes, and radio buttons. You can easily customize the colors and border radiuses to fit your design.
-**Buttons**: Choose from a variety of button styles, including flat, raised, and outline. SleekStyles also includes pre-made button sizes and colors.
-**Navbars**: Build a sleek and functional navigation bar with SleekStyles. You can choose from a range of styles, including fixed, sticky, and side navbars.
-**Cards**: SleekStyles includes pre-made card styles, including image cards, text cards, and card groups.
-**Footers**: Build a stylish footer for your website with SleekStyles. Choose from a range of pre-made styles to fit your design.
+* **Inputs**: SleekStyles includes pre-made styles for text inputs, checkboxes, and radio buttons. You can easily customize the colors and border radiuses to fit your design.
+* **Buttons**: Choose from a variety of button styles, including flat, raised, and outline. SleekStyles also includes pre-made button sizes and colors.
+* **Navbars**: Build a sleek and functional navigation bar with SleekStyles. You can choose from a range of styles, including fixed, sticky, and side navbars.
+* **Cards**: SleekStyles includes pre-made card styles, including image cards, text cards, and card groups.
+* **Footers**: Build a stylish footer for your website with SleekStyles. Choose from a range of pre-made styles to fit your design.
 Customization
 SleekStyles is designed to be customizable, so you can easily adjust the styles to fit your specific design needs. Here are just a few of the customization options available:
 
