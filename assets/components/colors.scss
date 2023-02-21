@@ -1,8 +1,41 @@
-$white: #fff;
-$vanilla: #f0edd3;
-$black: #0000;
-$blue: #3a53dd;
-$dark: #1a1a1a;
-$red: #ff5050;
-$orange: #ffa500;
-$no-name: #45d89b;
+$white: #fff !important;
+$vanilla: #f0edd3 !important;
+$black: #0000 !important;
+$blue: #3a53dd !important;
+$dark: #1a1a1a !important;
+$red: #ff5050 !important;
+$orange: #ffa500 !important;
+$cyan: #45d89b !important;
+$green:#358835 !important;
+
+$disabled: #333333 !important;
+$shadow: #20202077 !important;
+
+
+.color-white {
+    color: $white;
+}
+.color-vanilla {
+    color: $vanilla;
+}
+.color-black {
+    color: $black;
+}
+.color-blue {
+    color: $blue;
+}
+.color-dark {
+    color: $dark;
+}
+.color-red {
+    color: $red;
+}
+.color-orange {
+    color: $orange;
+}
+.color-cyan {
+    color: $cyan;
+}
+.color-green {
+    color: $green;
+}

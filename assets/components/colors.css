@@ -1,0 +1,35 @@
+.color-white {
+  color: #fff !important;
+}
+
+.color-vanilla {
+  color: #f0edd3 !important;
+}
+
+.color-black {
+  color: rgba(0, 0, 0, 0) !important;
+}
+
+.color-blue {
+  color: #3a53dd !important;
+}
+
+.color-dark {
+  color: #1a1a1a !important;
+}
+
+.color-red {
+  color: #ff5050 !important;
+}
+
+.color-orange {
+  color: #ffa500 !important;
+}
+
+.color-cyan {
+  color: #45d89b !important;
+}
+
+.color-green {
+  color: #358835 !important;
+}/*# sourceMappingURL=colors.css.map */

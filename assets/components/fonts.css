@@ -1,0 +1,159 @@
+@font-face {
+  src: url("../Fonts/Roboto/Roboto-Light.ttf");
+  font-family: "Roboto Light";
+}
+@font-face {
+  src: url("../Fonts/Roboto/Roboto-Thin.ttf");
+  font-family: "Roboto Thin";
+}
+@font-face {
+  src: url("../Fonts/Roboto/Roboto-Regular.ttf");
+  font-family: "Roboto Regular";
+}
+@font-face {
+  src: url("../Fonts/Roboto/Roboto-Medium.ttf");
+  font-family: "Roboto Medium";
+}
+@font-face {
+  src: url("../Fonts/Roboto/Roboto-Light.ttf");
+  font-family: "Roboto Bold";
+}
+@font-face {
+  src: url("../Fonts/Poppins/Poppins-Light.ttf");
+  font-family: "Poppins Light";
+}
+@font-face {
+  src: url("../Fonts/Poppins/Poppins-Thin.ttf");
+  font-family: "Poppins Thin";
+}
+@font-face {
+  src: url("../Fonts/Poppins/Poppins-Regular.ttf");
+  font-family: "Poppins Regular";
+}
+@font-face {
+  src: url("../Fonts/Poppins/Poppins-Medium.ttf");
+  font-family: "Poppins Medium";
+}
+@font-face {
+  src: url("../Fonts/Poppins/Poppins-SemiBold.ttf");
+  font-family: "Poppins SemiBold";
+}
+@font-face {
+  src: url("../Fonts/Poppins/Poppins-Bold.ttf");
+  font-family: "Poppins Bold";
+}
+@font-face {
+  src: url("../Fonts/Montserrat/Montserrat-Thin.ttf");
+  font-family: "Montserrat Thin";
+}
+@font-face {
+  src: url("../Fonts/Montserrat/Montserrat-ExtraLight.ttf");
+  font-family: "Montserrat ExtraLight";
+}
+@font-face {
+  src: url("../Fonts/Montserrat/Montserrat-Light.ttf");
+  font-family: "Montserrat Light";
+}
+@font-face {
+  src: url("../Fonts/Montserrat/Montserrat-Regular.ttf");
+  font-family: "Montserrat Regular";
+}
+@font-face {
+  src: url("../Fonts/Montserrat/Montserrat-Medium.ttf");
+  font-family: "Montserrat Medium";
+}
+@font-face {
+  src: url("../Fonts/Montserrat/Montserrat-SemiBold.ttf");
+  font-family: "Montserrat SemiBold";
+}
+@font-face {
+  src: url("../Fonts/Montserrat/Montserrat-Bold.ttf");
+  font-family: "Montserrat Bold";
+}
+@font-face {
+  src: url("../Fonts/Montserrat/Montserrat-ExtraBold.ttf");
+  font-family: "Montserrat ExtraBold";
+}
+@font-face {
+  src: url("../Fonts/Montserrat/Montserrat-Black.ttf");
+  font-family: "Montserrat Black";
+}
+.roboto-light {
+  font-family: "Roboto Light";
+}
+
+.roboto-thin {
+  font-family: "Roboto Thin";
+}
+
+.roboto-regular {
+  font-family: "Roboto Regular";
+}
+
+.roboto-medium {
+  font-family: "Roboto Medium";
+}
+
+.roboto-semibold {
+  font-family: "Roboto SemiBold";
+}
+
+.roboto-bold {
+  font-family: "Roboto Bold";
+}
+
+.poppins-light {
+  font-family: "Poppins Light";
+}
+
+.poppins-thin {
+  font-family: "Poppins Thin";
+}
+
+.poppins-regular {
+  font-family: "Poppins Regular";
+}
+
+.poppins-medium {
+  font-family: "Poppins Medium";
+}
+
+.poppins-bold {
+  font-family: "Poppins Bold";
+}
+
+.montserrat-ExtraLight {
+  font-family: "Montserrat ExtraLight";
+}
+
+.montserrat-light {
+  font-family: "Montserrat Light";
+}
+
+.montserrat-thin {
+  font-family: "Montserrat Thin";
+}
+
+.montserrat-regular {
+  font-family: "Montserrat Regular";
+}
+
+.montserrat-medium {
+  font-family: "Montserrat Medium";
+}
+
+.montserrat-SemiBold {
+  font-family: "Montserrat SemiBold";
+}
+
+.montserrat-bold {
+  font-family: "Montserrat Bold";
+}
+
+.montserrat-ExtraBold {
+  font-family: "Montserrat ExtraBold";
+}
+
+.montserrat-black {
+  font-family: "Montserrat Black";
+}/*# sourceMappingURL=fonts.css.map */

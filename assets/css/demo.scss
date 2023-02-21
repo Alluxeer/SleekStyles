@@ -2,7 +2,15 @@
 
 
 
-
+* {
+    box-sizing: border-box;
+}
+::-webkit-scrollbar {
+    display: none;
+}
+html {
+    scroll-behavior: smooth;
+}
 body {
     background: #26262c;
 }
@@ -16,8 +24,22 @@ body {
     &.btn-container {
         justify-content: center;
         display: flex;
+        flex-wrap: wrap;
         align-items: center;
         gap: 4em;
         padding: 1em;
     }
+}
+
+.box {
+    margin-bottom: 50px;
+}
+.box_holder {
+    gap: 1em;
+}
+.real_box {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    background: #fff;
 }

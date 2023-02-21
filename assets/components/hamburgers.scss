@@ -1,0 +1,31 @@
+@import './colors.scss'; 
+
+
+.sleek-hamburger {
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    cursor: pointer;
+    display: block;
+    padding: 5px;
+    max-width: 100%;
+}
+
+.sleek-hamburger span {
+    width: 35px;
+    height: 3px;
+    transition: .4s ease;
+    position: relative;
+    display: block;
+    border-radius: 30px;
+    margin-bottom: 5px;
+    background: #fff;
+}
+.sleek-hamburger span:last-child {
+    margin-bottom: 0;
+}
+
+.sleek-hamburger.on span:first-child {
+    margin-bottom: 0;
+}

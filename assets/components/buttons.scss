@@ -4,40 +4,56 @@
     padding: 10px 15px;
     border: none;
     outline: none;
-    box-shadow: 0 0 12px $shadow-soft;
     font-size: 18px;
     border-radius: 2px;
-    background: $default-color;
+    background: transparent;
     letter-spacing: .8px;
+    border: solid 1px #ffffff62;
     font-weight: 300;
+    transition: .3s ease;
     cursor: pointer;
-    color: $defaut-color;
+    color: $white;
 }
-
+.btn:hover {
+    box-shadow: 0 0 12px $shadow;
+    transform: scale(1.03);
+}
 .primary {
-    color: $light-color;
+    border: none ;
+    color: $white;
     background: $blue;
 }
 .error {
-    color: $light-color;
-    background: $button-error;
+    border: none ;
+    color: $white;
+    background: $red;
 }
 .success {
-    color: $light-color;
-    background: $button-success;
+    border: none ;
+    color: $white;
+    background: $green;
 }
 .disabled {
+    border: none ;
     cursor: default;
-    background: $button-disabled;
-    color: #636363;
+    background: $disabled;
+    color: #868686;
+}
+.disabled:hover {
+    transform: scale(1);
 }
 .floating {
+    border: none ;
     cursor: pointer;
-    background: $default-color;
+    position: fixed;
+    bottom: 25px;
+    right: 25px;
+    background: $blue;
     color: #1a1a1a;
     width: 50px;
     height: 50px;
+    z-index: 9;
     border: none;
-    box-shadow:  0 0 12px $shadow-soft;
+    box-shadow:  0 0 12px $shadow;
     border-radius: 50%;
 }
