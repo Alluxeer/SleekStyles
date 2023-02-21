@@ -24,4 +24,4 @@ SleekStyles is designed to be customizable, so you can easily adjust the styles 
 # Conclusion
 SleekStyles CSS UI Libraries is the perfect tool for anyone looking to quickly build a stylish and functional user interface for their web project. With pre-made components and customization options, SleekStyles makes it easy to create a design that fits your specific needs. So what are you waiting for? Download SleekStyles today and start building your UI!
 
-<img src="https://imgur.com/a/cFRkcmX" width="500" height="500" />
+![t9udYru](https://user-images.githubusercontent.com/90189726/220465242-039aff45-5dbb-4a63-be5b-5435c26089f0.png)
