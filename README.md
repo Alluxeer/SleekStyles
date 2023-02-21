@@ -4,7 +4,7 @@ Welcome to SleekStyles CSS UI Libraries! This is a collection of pre-made compon
 ## Getting Started
 To get started using SleekStyles, simply download the CSS file and include it in your HTML file. You can then start using the pre-made components right away! SleekStyles is designed to be easy to use, even for beginners, so you can start building your UI without any hassle.
 
-## omponents
+## Components
 SleekStyles includes a variety of components to help you quickly build your UI. Here are just a few of the components you'll have access to:
 
 Inputs: SleekStyles includes pre-made styles for text inputs, checkboxes, and radio buttons. You can easily customize the colors and border radiuses to fit your design.
